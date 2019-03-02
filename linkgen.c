@@ -62,7 +62,6 @@ int main(void)
 	{
 		after[j - (location + 1)] = link[j];
 	}
-	printf("%i\n%s\n%s\n",location, before, after);
 	
 
 	// gets range
